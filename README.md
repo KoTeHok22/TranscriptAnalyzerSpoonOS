@@ -27,6 +27,7 @@ The project uses the SpoonOS framework and includes:
 ```bash
 pip install spoon-ai-sdk
 pip install spoon-toolkits
+pip install python-docx
 ```
 
 ## Usage
