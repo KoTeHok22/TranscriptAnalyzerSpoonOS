@@ -53,6 +53,8 @@ async def main():
 asyncio.run(main())
 ```
 
+Video demonstration of the project's work: [YouTube](https://youtu.be/dkQofxWnwgk)
+
 ## Team
 
 - **Mishin Vadim Sergeevich** - Telegram: [@KoTeHok_De](https://t.me/KoTeHok_De)
